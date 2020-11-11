@@ -73,7 +73,7 @@ def train(tk, X_train,y_train, epochs,batchsize):
         model = Sequential()
         model.add(Embedding(vocabulary_size, embedding_size, input_length=max_words))
         model.add(LSTM(200))
-        model.add(Dense(1, activation='sigmoid'))
+        model.add(Dense(1, activation='tanh'))
         model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
         model.fit(X_train,y_train,batch_size=batchsize, epochs=epochs, verbose=0)
 
@@ -84,7 +84,7 @@ def train(tk, X_train,y_train, epochs,batchsize):
 twit = stocktwits.Streamer()
 
 # Pass in all parameters to query search
-raw_json = twit.get_symbol_msgs(symbol_id="TSLA", since=0, max=0, limit=30, callback=None, filter=None)
+raw_json = twit.get_symbol_msgs(symbol_id="SPY", since=0, max=0, limit=30, callback=None, filter=None)
 
 # Return raw json as JSON file and process it
 utils.return_json_file(raw_json, "get_symbol_msgs.json")
@@ -94,7 +94,9 @@ df, nullrows = process_data(raw_json);
 X_pad, y, tk = tokenize(df);
 X_train, X_test, y_train, y_test = train_test_split(X_pad, y, test_size = 0.25, random_state = 1)
 model = train(tk, X_train, y_train,100,10)
-scores = model.evaluate(X_test, y_test, verbose=0)
+
+#evaluate model on test set
+scores = model.evaluate(X_test, y_test, verbose=1)
 print("Accuracy: ", scores[1])
 
 #Predict sentiments with no value
@@ -103,7 +105,7 @@ Check_seq = tk.texts_to_sequences(Check_set)
 Check_pad = pad_sequences(Check_seq, maxlen = 100, padding = 'post')
 
 # Predict sentiment
-check_predict = model.predict_classes(Check_pad, verbose = 0)
+check_predict = model.predict_classes(Check_pad, verbose = 1)
 
 # Prepare data frame
 check_df = pd.DataFrame(list(zip(nullrows.Message.values, nullrows.Sentiment.values, check_predict)), columns = ['Message','Sentiment','Pred'])
