@@ -4,6 +4,7 @@ Uses a Keras (tensorflow) based rnn and stocktwits message data on securites to 
 
 # Tutorial
 1. Run pip install -r requirements.txt (Python 2), or pip3 install -r requirements.txt (Python 3)
+2. Edit the call to get_symbol_msgs in analysis.py to modify the stock of choice.
 2. python analysis.py
 
 # Credits
