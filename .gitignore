@@ -1,0 +1,7 @@
+
+__pycache__/
+
+env/
+model/
+*.whl
+*.pyc

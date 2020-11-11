@@ -1,0 +1,2153 @@
+{
+    "cursor": {
+        "max": 255811387,
+        "more": true,
+        "since": 255817850
+    },
+    "messages": [
+        {
+            "body": "$BABA $AMD $TSLA $ROKU $QQQ All time real updates @Signal_Guru",
+            "created_at": "2020-11-11T03:21:16Z",
+            "entities": {
+                "chart": {
+                    "large": "https://charts.stocktwits.com/production/large_255817850.jpg",
+                    "original": "https://charts.stocktwits.com/production/original_255817850.jpg",
+                    "thumb": "https://charts.stocktwits.com/production/small_255817850.jpg",
+                    "url": "https://charts.stocktwits.com/production/original_255817850.jpg"
+                },
+                "sentiment": null
+            },
+            "id": 255817850,
+            "mentioned_users": [
+                "@Signal_Guru"
+            ],
+            "source": {
+                "id": 2269,
+                "title": "StockTwits Web",
+                "url": "https://stocktwits.com"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 4331,
+                    "is_following": false,
+                    "symbol": "AMD",
+                    "title": "Advanced Micro Devices, Inc.",
+                    "watchlist_count": 283231
+                },
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                },
+                {
+                    "aliases": [],
+                    "id": 9039,
+                    "is_following": false,
+                    "symbol": "ROKU",
+                    "title": "Roku",
+                    "watchlist_count": 85063
+                },
+                {
+                    "aliases": [
+                        "QQQQ"
+                    ],
+                    "id": 9581,
+                    "is_following": false,
+                    "symbol": "QQQ",
+                    "title": "PowerShares Nasdaq-100 QQQ",
+                    "watchlist_count": 78955
+                },
+                {
+                    "aliases": [
+                        "ALIBABA"
+                    ],
+                    "id": 12100,
+                    "is_following": false,
+                    "symbol": "BABA",
+                    "title": "Alibaba",
+                    "watchlist_count": 233565
+                }
+            ],
+            "user": {
+                "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+                "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+                "classification": [],
+                "followers": 0,
+                "following": 2,
+                "id": 4292858,
+                "ideas": 2,
+                "identity": "User",
+                "join_date": "2020-11-11",
+                "like_count": 7,
+                "name": "daxoheg356",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "daxoheg356",
+                "watchlist_stocks_count": 12
+            }
+        },
+        {
+            "body": "$SPY $TSLA",
+            "created_at": "2020-11-11T03:20:22Z",
+            "entities": {
+                "chart": {
+                    "large": "https://charts.stocktwits.com/production/large_255817733.png",
+                    "original": "https://charts.stocktwits.com/production/original_255817733.png",
+                    "thumb": "https://charts.stocktwits.com/production/small_255817733.png",
+                    "url": "https://charts.stocktwits.com/production/original_255817733.png"
+                },
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            },
+            "id": 255817733,
+            "likes": {
+                "total": 1,
+                "user_ids": [
+                    985714
+                ]
+            },
+            "mentioned_users": [],
+            "source": {
+                "id": 1149,
+                "title": "StockTwits for iOS",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 7271,
+                    "is_following": false,
+                    "symbol": "SPY",
+                    "title": "SPDR S&P 500",
+                    "watchlist_count": 270307
+                },
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/1707701/thumb-1543568674.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/1707701/thumb-1543568674.png",
+                "classification": [],
+                "followers": 248,
+                "following": 198,
+                "id": 1707701,
+                "ideas": 12447,
+                "identity": "User",
+                "join_date": "2018-11-11",
+                "like_count": 15196,
+                "name": "Lil_VWAP",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "Lil_VWAP",
+                "watchlist_stocks_count": 49
+            }
+        },
+        {
+            "body": "$TSLA $NIO $XPEV $LI \nChinese EV OEMs are eating Tesla lunch in China market.\nHowever I will never invest to Chinese EV\n: Simply no(nearly zero) chance of stealing global consumers&#39; pocket$ \ud83e\udd21\n\nhttps://seekingalpha.com/article/4387842-tesla-china-growth-struggles",
+            "created_at": "2020-11-11T03:20:06Z",
+            "entities": {
+                "chart": {
+                    "large": "https://charts.stocktwits.com/production/large_255817703.png",
+                    "original": "https://charts.stocktwits.com/production/original_255817703.png",
+                    "thumb": "https://charts.stocktwits.com/production/small_255817703.png",
+                    "url": "https://charts.stocktwits.com/production/original_255817703.png"
+                },
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            },
+            "id": 255817703,
+            "likes": {
+                "total": 1,
+                "user_ids": [
+                    3312294
+                ]
+            },
+            "links": [
+                {
+                    "created_at": "2020-11-11T03:20:07Z",
+                    "description": "For electric vehicle maker Tesla ( TSLA), perhaps the biggest part of the bull case for this year was supposed to be the massive growth opportunity in China. With the company starting volume production of its Shanghai built Model 3 units, investors were looking for big things.",
+                    "image": "https://static3.seekingalpha.com/uploads/2020/11/9/1017993-16049443397631462.png",
+                    "shortened_expanded_url": "seekingalpha.com/article/43...",
+                    "shortened_url": "https://seekingalpha.com/article/4387842-tesla-china-growth-struggles",
+                    "source": {
+                        "name": "Seeking Alpha",
+                        "website": "https://seekingalpha.com"
+                    },
+                    "title": "Tesla: China Growth Struggles (NASDAQ:TSLA)",
+                    "url": "https://seekingalpha.com/article/4387842-tesla-china-growth-struggles",
+                    "video_url": null
+                }
+            ],
+            "mentioned_users": [],
+            "source": {
+                "id": 2095,
+                "title": "StockTwits For Android ",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 6499,
+                    "is_following": false,
+                    "symbol": "NIO",
+                    "title": "NIO Inc.",
+                    "watchlist_count": 139072
+                },
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                },
+                {
+                    "aliases": [],
+                    "id": 15775,
+                    "is_following": false,
+                    "symbol": "LI",
+                    "title": "Li Auto Inc - ADR",
+                    "watchlist_count": 7373
+                },
+                {
+                    "aliases": [],
+                    "id": 15842,
+                    "is_following": false,
+                    "symbol": "XPEV",
+                    "title": "XPENG INC.",
+                    "watchlist_count": 14463
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/1165200/thumb-1600391786.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/1165200/thumb-1600391786.png",
+                "classification": [],
+                "followers": 2864,
+                "following": 13,
+                "id": 1165200,
+                "ideas": 28785,
+                "identity": "User",
+                "join_date": "2017-08-22",
+                "like_count": 56882,
+                "name": "Sherry, Not Shitty",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "Sherry___",
+                "watchlist_stocks_count": 233
+            }
+        },
+        {
+            "body": "$AMD  $NVDA  $NIO  $TSLA $BABA  was the dip",
+            "created_at": "2020-11-11T03:17:52Z",
+            "entities": {
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            },
+            "id": 255817441,
+            "likes": {
+                "total": 7,
+                "user_ids": [
+                    3077792,
+                    3918331,
+                    818960,
+                    3566653,
+                    3227151,
+                    1665573,
+                    3439768
+                ]
+            },
+            "mentioned_users": [],
+            "source": {
+                "id": 1149,
+                "title": "StockTwits for iOS",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 2925,
+                    "is_following": false,
+                    "symbol": "NVDA",
+                    "title": "NVIDIA Corporation",
+                    "watchlist_count": 234472
+                },
+                {
+                    "aliases": [],
+                    "id": 4331,
+                    "is_following": false,
+                    "symbol": "AMD",
+                    "title": "Advanced Micro Devices, Inc.",
+                    "watchlist_count": 283231
+                },
+                {
+                    "aliases": [],
+                    "id": 6499,
+                    "is_following": false,
+                    "symbol": "NIO",
+                    "title": "NIO Inc.",
+                    "watchlist_count": 139072
+                },
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                },
+                {
+                    "aliases": [
+                        "ALIBABA"
+                    ],
+                    "id": 12100,
+                    "is_following": false,
+                    "symbol": "BABA",
+                    "title": "Alibaba",
+                    "watchlist_count": 233565
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/532566/thumb-1601103738.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/532566/thumb-1601103738.png",
+                "classification": [],
+                "followers": 15,
+                "following": 30,
+                "id": 532566,
+                "ideas": 504,
+                "identity": "User",
+                "join_date": "2015-06-12",
+                "like_count": 705,
+                "name": "John Su",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "wrongmoveagain",
+                "watchlist_stocks_count": 299
+            }
+        },
+        {
+            "body": "Stocktwits be like.... $AAPL $TSLA $SPY",
+            "conversation": {
+                "in_reply_to_message_id": null,
+                "parent": true,
+                "parent_message_id": 255817269,
+                "replies": 2
+            },
+            "created_at": "2020-11-11T03:16:21Z",
+            "entities": {
+                "chart": {
+                    "large": "https://charts.stocktwits.com/production/large_255817269.jpg",
+                    "original": "https://charts.stocktwits.com/production/original_255817269.jpg",
+                    "thumb": "https://charts.stocktwits.com/production/small_255817269.jpg",
+                    "url": "https://charts.stocktwits.com/production/original_255817269.jpg"
+                },
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            },
+            "id": 255817269,
+            "likes": {
+                "total": 4,
+                "user_ids": [
+                    3771008,
+                    3740673,
+                    1511767,
+                    2236954
+                ]
+            },
+            "mentioned_users": [],
+            "source": {
+                "id": 2095,
+                "title": "StockTwits For Android ",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 686,
+                    "is_following": false,
+                    "symbol": "AAPL",
+                    "title": "Apple Inc.",
+                    "watchlist_count": 528955
+                },
+                {
+                    "aliases": [],
+                    "id": 7271,
+                    "is_following": false,
+                    "symbol": "SPY",
+                    "title": "SPDR S&P 500",
+                    "watchlist_count": 270307
+                },
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/4198425/thumb-1602973673.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/4198425/thumb-1602973673.png",
+                "classification": [],
+                "followers": 1,
+                "following": 1,
+                "id": 4198425,
+                "ideas": 78,
+                "identity": "User",
+                "join_date": "2020-10-17",
+                "like_count": 135,
+                "name": "Tony Montana",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "JVegas28546",
+                "watchlist_stocks_count": 4
+            }
+        },
+        {
+            "body": "$NIO $BTC.X $TSLA IT\u2019S TIME TO RIP!!!!",
+            "created_at": "2020-11-11T03:15:57Z",
+            "entities": {
+                "giphy": {
+                    "id": "e3ju7ALSHtJmM"
+                },
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            },
+            "id": 255817226,
+            "likes": {
+                "total": 2,
+                "user_ids": [
+                    1475341,
+                    719602
+                ]
+            },
+            "mentioned_users": [],
+            "source": {
+                "id": 1149,
+                "title": "StockTwits for iOS",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 6499,
+                    "is_following": false,
+                    "symbol": "NIO",
+                    "title": "NIO Inc.",
+                    "watchlist_count": 139047
+                },
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                },
+                {
+                    "aliases": [
+                        "BTCUSD"
+                    ],
+                    "id": 11418,
+                    "is_following": false,
+                    "symbol": "BTC.X",
+                    "title": "Bitcoin BTC/USD",
+                    "watchlist_count": 202709
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/3263816/thumb-1585959667.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/3263816/thumb-1585959667.png",
+                "classification": [],
+                "followers": 26,
+                "following": 17,
+                "id": 3263816,
+                "ideas": 1564,
+                "identity": "User",
+                "join_date": "2020-04-03",
+                "like_count": 1980,
+                "name": "Rippermagoo",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "Rippermagoo",
+                "watchlist_stocks_count": 27
+            }
+        },
+        {
+            "body": "Ford to add jobs to boost output of electric F-150, add electric van\nJoseph White\n\nhttps://pageone.ng/2020/11/10/ford-to-add-jobs-to-boost-output-of-electric-f-150-add-electric-van-joseph-white/\n\n$F $NIO $TSLA $VLKAY",
+            "created_at": "2020-11-11T03:15:45Z",
+            "entities": {
+                "sentiment": null
+            },
+            "id": 255817210,
+            "links": [
+                {
+                    "created_at": "2020-11-11T03:15:45Z",
+                    "description": "(Reuters) - Ford Motor Co said on Tuesday it plans to hire 350 more U.S. workers to expand production capacity for its electric F-150 pickup truck in Michigan and add assembly of electric commercial vans at a plant near Kansas City, Missouri.",
+                    "image": "https://i2.wp.com/pageone.ng/wp-content/uploads/2019/06/ford_tumb2.jpg?fit=1280%2C720&ssl=1",
+                    "shortened_expanded_url": "pageone.ng/2020/11/10/ford-...",
+                    "shortened_url": "https://pageone.ng/2020/11/10/ford-to-add-jobs-to-boost-output-of-electric-f-150-add-electric-van-joseph-white/",
+                    "source": {
+                        "name": "PageOne",
+                        "website": "https://pageone.ng"
+                    },
+                    "title": "Ford to add jobs to boost output of electric F-150, add electric van Joseph",
+                    "url": "https://pageone.ng/2020/11/10/ford-to-add-jobs-to-boost-output-of-electric-f-150-add-electric-van-joseph-white/",
+                    "video_url": null
+                }
+            ],
+            "mentioned_users": [],
+            "source": {
+                "id": 2095,
+                "title": "StockTwits For Android ",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 5281,
+                    "is_following": false,
+                    "symbol": "F",
+                    "title": "Ford Motor Co.",
+                    "watchlist_count": 98463
+                },
+                {
+                    "aliases": [],
+                    "id": 6499,
+                    "is_following": false,
+                    "symbol": "NIO",
+                    "title": "NIO Inc.",
+                    "watchlist_count": 139047
+                },
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                },
+                {
+                    "aliases": [],
+                    "id": 12374,
+                    "is_following": false,
+                    "symbol": "VLKAY",
+                    "title": "Volkswagen AG",
+                    "watchlist_count": 2613
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+                "classification": [],
+                "followers": 125,
+                "following": 6,
+                "id": 3577261,
+                "ideas": 5448,
+                "identity": "User",
+                "join_date": "2020-06-08",
+                "like_count": 5,
+                "name": "Samuel Odusami",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "vinci86",
+                "watchlist_stocks_count": 41
+            }
+        },
+        {
+            "body": "Ford Looks To Clear Air Around Mustang Mach E EPA Range, Says Fully Expects To Meet Target\n\nhttps://pageone.ng/2020/11/10/ford-looks-to-clear-air-around-mustang-mach-e-epa-range-says-fully-expects-to-meet-target/\n\n$F $NIO $TSLA $VLKAY",
+            "created_at": "2020-11-11T03:14:56Z",
+            "entities": {
+                "sentiment": null
+            },
+            "id": 255817098,
+            "links": [
+                {
+                    "created_at": "2020-11-11T03:15:00Z",
+                    "description": "(Yahoo Finance) Ford Motor Company (NYSE: F) expects to deliver the 300-mile United States Environmental Protection Agency range for its Mustang Mach-E, which is under a cloud after estimates documents became available online, CNET reported Monday. What Happened: A spokesperson for the Dearborn, Michigan-based",
+                    "image": "https://i0.wp.com/pageone.ng/wp-content/uploads/2020/10/images-2020-10-01T163856.262.jpeg?fit=701%2C437&ssl=1",
+                    "shortened_expanded_url": "pageone.ng/2020/11/10/ford-...",
+                    "shortened_url": "https://pageone.ng/2020/11/10/ford-looks-to-clear-air-around-mustang-mach-e-epa-range-says-fully-expects-to-meet-target/",
+                    "source": {
+                        "name": "PageOne",
+                        "website": "https://pageone.ng"
+                    },
+                    "title": "Ford Looks To Clear Air Around Mustang Mach E EPA Range, Says Fully Expects",
+                    "url": "https://pageone.ng/2020/11/10/ford-looks-to-clear-air-around-mustang-mach-e-epa-range-says-fully-expects-to-meet-target/",
+                    "video_url": null
+                }
+            ],
+            "mentioned_users": [],
+            "source": {
+                "id": 2095,
+                "title": "StockTwits For Android ",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 5281,
+                    "is_following": false,
+                    "symbol": "F",
+                    "title": "Ford Motor Co.",
+                    "watchlist_count": 98463
+                },
+                {
+                    "aliases": [],
+                    "id": 6499,
+                    "is_following": false,
+                    "symbol": "NIO",
+                    "title": "NIO Inc.",
+                    "watchlist_count": 139047
+                },
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                },
+                {
+                    "aliases": [],
+                    "id": 12374,
+                    "is_following": false,
+                    "symbol": "VLKAY",
+                    "title": "Volkswagen AG",
+                    "watchlist_count": 2613
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+                "classification": [],
+                "followers": 125,
+                "following": 6,
+                "id": 3577261,
+                "ideas": 5448,
+                "identity": "User",
+                "join_date": "2020-06-08",
+                "like_count": 5,
+                "name": "Samuel Odusami",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "vinci86",
+                "watchlist_stocks_count": 41
+            }
+        },
+        {
+            "body": "$NIO $XPEV $LI $TSLA \n\nIs BYD company the forgotten Chinese EC company? (They are profitable)\n\nBYD stock review (BYDDF stock) BYD company limited - ev stock https://youtu.be/Iv7pEaaI40s",
+            "created_at": "2020-11-11T03:13:55Z",
+            "entities": {
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            },
+            "id": 255816961,
+            "links": [
+                {
+                    "created_at": "2020-11-11T03:13:55Z",
+                    "description": "BYD stock review (BYDDF stock) BYD is a unique ev company that is worth considering adding to your EV portfolio. Brief, structured and to the point video on ...",
+                    "image": "https://i.ytimg.com/vi/Iv7pEaaI40s/hqdefault.jpg",
+                    "shortened_expanded_url": "youtube.com/watch?v=Iv7pEaa...",
+                    "shortened_url": "https://youtu.be/Iv7pEaaI40s",
+                    "source": {
+                        "name": "YouTube",
+                        "website": "https://www.youtube.com/"
+                    },
+                    "title": "BYD stock review (BYDDF stock) BYD company limited - ev stock",
+                    "url": "https://youtu.be/Iv7pEaaI40s",
+                    "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FIv7pEaaI40s%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIv7pEaaI40s=https%3A%2F%2Fi.ytimg.com%2Fvi%2FIv7pEaaI40s%2Fhqdefault.jpg=38dd9af069fe4432a0efe5550d2ea231=text%2Fhtml=youtube"
+                }
+            ],
+            "mentioned_users": [],
+            "source": {
+                "id": 1149,
+                "title": "StockTwits for iOS",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 6499,
+                    "is_following": false,
+                    "symbol": "NIO",
+                    "title": "NIO Inc.",
+                    "watchlist_count": 139047
+                },
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                },
+                {
+                    "aliases": [],
+                    "id": 15775,
+                    "is_following": false,
+                    "symbol": "LI",
+                    "title": "Li Auto Inc - ADR",
+                    "watchlist_count": 7373
+                },
+                {
+                    "aliases": [],
+                    "id": 15842,
+                    "is_following": false,
+                    "symbol": "XPEV",
+                    "title": "XPENG INC.",
+                    "watchlist_count": 14470
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/1574466/thumb-1599183624.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/1574466/thumb-1599183624.png",
+                "classification": [],
+                "followers": 48,
+                "following": 2,
+                "id": 1574466,
+                "ideas": 755,
+                "identity": "User",
+                "join_date": "2018-08-13",
+                "like_count": 84,
+                "name": "Mark Johnston",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "marks_stock_review",
+                "watchlist_stocks_count": 48
+            }
+        },
+        {
+            "body": "GM could receive an 11% equity stake from Nikola partnership\n\nhttps://pageone.ng/2020/11/10/gm-could-receive-an-11-equity-stake-from-nikola-partnership/\n\n$GM $NKLA $TSLA",
+            "created_at": "2020-11-11T03:13:45Z",
+            "entities": {
+                "sentiment": null
+            },
+            "id": 255816944,
+            "likes": {
+                "total": 1,
+                "user_ids": [
+                    1165200
+                ]
+            },
+            "links": [
+                {
+                    "created_at": "2020-11-11T03:13:45Z",
+                    "description": "While conversations between Nikola Corp. and General Motors are continuing after a strategic partnership agreement was reached in September, there are indications that the deal could potentially earn GM an 11% equity stake in the electric vehicle maker in exchange for \"various in-kind services.\" \"The",
+                    "image": "https://i0.wp.com/pageone.ng/wp-content/uploads/2020/09/gm.jpg?fit=1200%2C675&ssl=1",
+                    "shortened_expanded_url": "pageone.ng/2020/11/10/gm-co...",
+                    "shortened_url": "https://pageone.ng/2020/11/10/gm-could-receive-an-11-equity-stake-from-nikola-partnership/",
+                    "source": {
+                        "name": "PageOne",
+                        "website": "https://pageone.ng"
+                    },
+                    "title": "GM could receive an 11% equity stake from Nikola partnership | PageOne",
+                    "url": "https://pageone.ng/2020/11/10/gm-could-receive-an-11-equity-stake-from-nikola-partnership/",
+                    "video_url": null
+                }
+            ],
+            "mentioned_users": [],
+            "source": {
+                "id": 2095,
+                "title": "StockTwits For Android ",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                },
+                {
+                    "aliases": [
+                        "RGM"
+                    ],
+                    "id": 9358,
+                    "is_following": false,
+                    "symbol": "GM",
+                    "title": "General Motors Company",
+                    "watchlist_count": 27338
+                },
+                {
+                    "aliases": [],
+                    "id": 15566,
+                    "is_following": false,
+                    "symbol": "NKLA",
+                    "title": "Nikola Corp.",
+                    "watchlist_count": 72723
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+                "classification": [],
+                "followers": 124,
+                "following": 6,
+                "id": 3577261,
+                "ideas": 5448,
+                "identity": "User",
+                "join_date": "2020-06-08",
+                "like_count": 5,
+                "name": "Samuel Odusami",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "vinci86",
+                "watchlist_stocks_count": 41
+            }
+        },
+        {
+            "body": "Global stocks up as vaccine shields against second-wave worries\n \n\nhttps://pageone.ng/2020/11/11/global-stocks-up-as-vaccine-shields-against-second-wave-worries/\n\n$AMZN $GOOGL $FB $AAPL $TSLA",
+            "created_at": "2020-11-11T03:10:46Z",
+            "entities": {
+                "sentiment": null
+            },
+            "id": 255816584,
+            "links": [
+                {
+                    "created_at": "2020-11-11T03:10:49Z",
+                    "description": "(Reuters) - Stock markets gained on Wednesday, as news of a working COVID-19 vaccine seemed to inoculate investors against worry about surging infections in Europe and the United States, while the kiwi rose as traders thought the central bank sounded upbeat. MSCI's broadest index of Asia-Pacific shares outside Japan",
+                    "image": "https://i1.wp.com/pageone.ng/wp-content/uploads/2020/09/images-2020-09-11T185334.448-2.jpeg?fit=677%2C453&ssl=1",
+                    "shortened_expanded_url": "pageone.ng/2020/11/11/globa...",
+                    "shortened_url": "https://pageone.ng/2020/11/11/global-stocks-up-as-vaccine-shields-against-second-wave-worries/",
+                    "source": {
+                        "name": "PageOne",
+                        "website": "https://pageone.ng"
+                    },
+                    "title": "Global stocks up as vaccine shields against second-wave worries |",
+                    "url": "https://pageone.ng/2020/11/11/global-stocks-up-as-vaccine-shields-against-second-wave-worries/",
+                    "video_url": null
+                }
+            ],
+            "mentioned_users": [],
+            "source": {
+                "id": 2095,
+                "title": "StockTwits For Android ",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 686,
+                    "is_following": false,
+                    "symbol": "AAPL",
+                    "title": "Apple Inc.",
+                    "watchlist_count": 528955
+                },
+                {
+                    "aliases": [],
+                    "id": 864,
+                    "is_following": false,
+                    "symbol": "AMZN",
+                    "title": "Amazon.com Inc.",
+                    "watchlist_count": 349704
+                },
+                {
+                    "aliases": [
+                        "FBOOK"
+                    ],
+                    "id": 7871,
+                    "is_following": false,
+                    "symbol": "FB",
+                    "title": "Facebook",
+                    "watchlist_count": 327943
+                },
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                },
+                {
+                    "aliases": [],
+                    "id": 11938,
+                    "is_following": false,
+                    "symbol": "GOOGL",
+                    "title": "Alphabet Inc. Class A",
+                    "watchlist_count": 94195
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+                "classification": [],
+                "followers": 125,
+                "following": 6,
+                "id": 3577261,
+                "ideas": 5448,
+                "identity": "User",
+                "join_date": "2020-06-08",
+                "like_count": 5,
+                "name": "Samuel Odusami",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "vinci86",
+                "watchlist_stocks_count": 41
+            }
+        },
+        {
+            "body": "$TSLA Shorts whom trade Tesla!",
+            "created_at": "2020-11-11T03:08:27Z",
+            "entities": {
+                "giphy": {
+                    "id": "3yG92y6kA0i64",
+                    "ratio": 1.3333333333333333
+                },
+                "sentiment": null
+            },
+            "id": 255816301,
+            "mentioned_users": [],
+            "source": {
+                "id": 2095,
+                "title": "StockTwits For Android ",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/2927648/thumb-1604857895.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/2927648/thumb-1604857895.png",
+                "classification": [],
+                "followers": 11,
+                "following": 10,
+                "id": 2927648,
+                "ideas": 525,
+                "identity": "User",
+                "join_date": "2019-11-21",
+                "like_count": 10478,
+                "name": "Cory L. McKeever",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "RubberDuckyCapital",
+                "watchlist_stocks_count": 32
+            }
+        },
+        {
+            "body": "$TSLA #TSLA Weak price action earlier today, but closing back above the green support zone makes it less bearish. Remaining above 407 is what Bulls want.",
+            "created_at": "2020-11-11T03:07:55Z",
+            "entities": {
+                "chart": {
+                    "large": "https://charts.stocktwits.com/production/large_255816247.jpg",
+                    "original": "https://charts.stocktwits.com/production/original_255816247.jpg",
+                    "thumb": "https://charts.stocktwits.com/production/small_255816247.jpg",
+                    "url": "https://charts.stocktwits.com/production/original_255816247.jpg"
+                },
+                "sentiment": null
+            },
+            "id": 255816247,
+            "likes": {
+                "total": 1,
+                "user_ids": [
+                    909664
+                ]
+            },
+            "mentioned_users": [],
+            "source": {
+                "id": 2269,
+                "title": "StockTwits Web",
+                "url": "https://stocktwits.com"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/1910970/thumb-1592767860.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/1910970/thumb-1592767860.png",
+                "classification": [
+                    "suggested"
+                ],
+                "followers": 1105,
+                "following": 24,
+                "id": 1910970,
+                "ideas": 2099,
+                "identity": "User",
+                "join_date": "2019-03-04",
+                "like_count": 605,
+                "name": "Ainee",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "iTrade_Price",
+                "watchlist_stocks_count": 37
+            }
+        },
+        {
+            "body": "$TSLA \n\nI really can\u2019t wait to see Tesla RVs for  X-country Trips .. I think it\u2019ll be easy to achieve if built on CyberTruck Chassis  or even Semi !! \n\nHuge Market in pandemic !! Look at RVs business - it is booming ! \n@elonmusk \n\n\ud83d\ude4f\ud83c\udffb",
+            "conversation": {
+                "in_reply_to_message_id": null,
+                "parent": true,
+                "parent_message_id": 255816056,
+                "replies": 1
+            },
+            "created_at": "2020-11-11T03:06:05Z",
+            "entities": {
+                "chart": {
+                    "large": "https://charts.stocktwits.com/production/large_255816056.png",
+                    "original": "https://charts.stocktwits.com/production/original_255816056.png",
+                    "thumb": "https://charts.stocktwits.com/production/small_255816056.png",
+                    "url": "https://charts.stocktwits.com/production/original_255816056.png"
+                },
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            },
+            "id": 255816056,
+            "likes": {
+                "total": 1,
+                "user_ids": [
+                    1498728
+                ]
+            },
+            "mentioned_users": [
+                "@elonmusk"
+            ],
+            "source": {
+                "id": 1149,
+                "title": "StockTwits for iOS",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/1824468/thumb-1548439593.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/1824468/thumb-1548439593.png",
+                "classification": [],
+                "followers": 685,
+                "following": 14,
+                "id": 1824468,
+                "ideas": 15399,
+                "identity": "User",
+                "join_date": "2019-01-25",
+                "like_count": 6336,
+                "name": "Jim",
+                "official": false,
+                "plus_tier": "year",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "BigNews",
+                "watchlist_stocks_count": 1
+            }
+        },
+        {
+            "body": "$NIO I love $TSLA but I got in early. Holding for 10 years and one of my greatest investments. I will never sell. Sometimes you just know. I knew it in my teens when my pop passed it down...He told me to never sell Tesla because it would be a major success. He taught me many things like recognizing undervalued 10X stocks like  $NIO and $XPEV early, before people realize they will  actually 100X their value in the future. My opinions are free and God is my witness. I would never steer you wrong so listen to what I&#39;m telling you! EV stocks like these and their $SBE infrastructure will make you rich if you  just listen and learn! My advice is free! Take it or leave it!!",
+            "created_at": "2020-11-11T03:05:35Z",
+            "entities": {
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            },
+            "id": 255815993,
+            "likes": {
+                "total": 9,
+                "user_ids": [
+                    4174211,
+                    3435359,
+                    1507600,
+                    4042963,
+                    3891673,
+                    4163201,
+                    828115,
+                    3552625,
+                    1166592
+                ]
+            },
+            "mentioned_users": [],
+            "source": {
+                "id": 2269,
+                "title": "StockTwits Web",
+                "url": "https://stocktwits.com"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 6499,
+                    "is_following": false,
+                    "symbol": "NIO",
+                    "title": "NIO Inc.",
+                    "watchlist_count": 139072
+                },
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                },
+                {
+                    "aliases": [],
+                    "id": 15743,
+                    "is_following": false,
+                    "symbol": "SBE",
+                    "title": "Switchback Energy Acquisition Corp - Ordinary Shares - Class A",
+                    "watchlist_count": 11821
+                },
+                {
+                    "aliases": [],
+                    "id": 15842,
+                    "is_following": false,
+                    "symbol": "XPEV",
+                    "title": "XPENG INC.",
+                    "watchlist_count": 14466
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/4268073/thumb-1605051820.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/4268073/thumb-1605051820.png",
+                "classification": [],
+                "followers": 3,
+                "following": 3,
+                "id": 4268073,
+                "ideas": 7,
+                "identity": "User",
+                "join_date": "2020-11-04",
+                "like_count": 72,
+                "name": "Nick",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "TheeStocrates",
+                "watchlist_stocks_count": 3
+            }
+        },
+        {
+            "body": "$TSLA is currently trading in the upper part of its 52 week range, slightly lagging the index. https://www.chartmill.com/stock/quote/TSLA/technical-analysis?key=b3fb89e7-ce52-4df4-906a-b4ccaf80eec8&amp;utm_source=stocktwits&amp;utm_medium=TA&amp;utm_content=TSLA&amp;utm_campaign=social_tracking",
+            "created_at": "2020-11-11T03:00:00Z",
+            "entities": {
+                "sentiment": null
+            },
+            "id": 255815281,
+            "links": [
+                {
+                    "created_at": "2020-11-11T03:00:00Z",
+                    "description": null,
+                    "image": null,
+                    "shortened_expanded_url": "chartmill.com/stock/quote/T...",
+                    "shortened_url": "https://www.chartmill.com/stock/quote/TSLA/technical-analysis?key=b3fb89e7-ce52-4df4-906a-b4ccaf80eec8&utm_source=stocktwits&utm_medium=TA&utm_content=TSLA&utm_campaign=social_tracking",
+                    "source": {
+                        "name": "Chartmill",
+                        "website": "https://www.chartmill.com"
+                    },
+                    "title": null,
+                    "url": "https://www.chartmill.com/stock/quote/TSLA/technical-analysis?key=b3fb89e7-ce52-4df4-906a-b4ccaf80eec8&utm_source=stocktwits&utm_medium=TA&utm_content=TSLA&utm_campaign=social_tracking",
+                    "video_url": null
+                }
+            ],
+            "mentioned_users": [],
+            "source": {
+                "id": 1135,
+                "title": "ChartMill",
+                "url": "http://www.chartmill.com"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+                "classification": [],
+                "followers": 22150,
+                "following": 891,
+                "id": 47688,
+                "ideas": 1104783,
+                "identity": "User",
+                "join_date": "2011-01-26",
+                "like_count": 32,
+                "name": "ChartMill",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "ChartMill",
+                "watchlist_stocks_count": 20
+            }
+        },
+        {
+            "body": "$TSLA im glad tesla making everyone wake up and step ip to the plate now...they started it now others are running with it...",
+            "created_at": "2020-11-11T02:58:56Z",
+            "entities": {
+                "chart": {
+                    "large": "https://charts.stocktwits.com/production/large_255815160.png",
+                    "original": "https://charts.stocktwits.com/production/original_255815160.png",
+                    "thumb": "https://charts.stocktwits.com/production/small_255815160.png",
+                    "url": "https://charts.stocktwits.com/production/original_255815160.png"
+                },
+                "sentiment": null
+            },
+            "id": 255815160,
+            "mentioned_users": [],
+            "source": {
+                "id": 1149,
+                "title": "StockTwits for iOS",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/2196513/thumb-1563243093.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/2196513/thumb-1563243093.png",
+                "classification": [],
+                "followers": 20,
+                "following": 1,
+                "id": 2196513,
+                "ideas": 2392,
+                "identity": "User",
+                "join_date": "2019-07-16",
+                "like_count": 495,
+                "name": "AndrewTet",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "AndrewTet",
+                "watchlist_stocks_count": 11
+            }
+        },
+        {
+            "body": "$TSLA Leap calls are tempting! What do you think?",
+            "conversation": {
+                "in_reply_to_message_id": null,
+                "parent": true,
+                "parent_message_id": 255814178,
+                "replies": 2
+            },
+            "created_at": "2020-11-11T02:50:58Z",
+            "entities": {
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            },
+            "id": 255814178,
+            "likes": {
+                "total": 3,
+                "user_ids": [
+                    3312294,
+                    3111595,
+                    985714
+                ]
+            },
+            "mentioned_users": [],
+            "source": {
+                "id": 2269,
+                "title": "StockTwits Web",
+                "url": "https://stocktwits.com"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/3808796/thumb-1598737472.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/3808796/thumb-1598737472.png",
+                "classification": [],
+                "followers": 5,
+                "following": 0,
+                "id": 3808796,
+                "ideas": 93,
+                "identity": "User",
+                "join_date": "2020-07-18",
+                "like_count": 23,
+                "name": "OptionSeller",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "SellingOptions",
+                "watchlist_stocks_count": 0
+            }
+        },
+        {
+            "body": "5 Secrets From a Millionaire Options Trader\n\nhttps://www.smartoptions.ai/post/secretsfromamillionaire\n\n$SPY $AAPL $TSLA",
+            "created_at": "2020-11-11T02:50:25Z",
+            "entities": {
+                "sentiment": null
+            },
+            "id": 255814104,
+            "links": [
+                {
+                    "created_at": "2020-11-11T02:50:28Z",
+                    "description": "These tips are some I've learned from 3 years trading options. Follow the Money & Trade Options with Our SmartOptions\u00ae Artificial Intelligence. Join Here.",
+                    "image": "https://static.wixstatic.com/media/nsplsh_5559dd739bb24925b1e33c356f5699d8~mv2.jpg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.png",
+                    "shortened_expanded_url": "smartoptions.ai/post/secret...",
+                    "shortened_url": "https://www.smartoptions.ai/post/secretsfromamillionaire",
+                    "source": {
+                        "name": "SmartOptions",
+                        "website": "https://www.smartoptions.ai"
+                    },
+                    "title": "5 Secrets From a Millionaire Options Trader",
+                    "url": "https://www.smartoptions.ai/post/secretsfromamillionaire",
+                    "video_url": null
+                }
+            ],
+            "mentioned_users": [],
+            "source": {
+                "id": 2269,
+                "title": "StockTwits Web",
+                "url": "https://stocktwits.com"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 686,
+                    "is_following": false,
+                    "symbol": "AAPL",
+                    "title": "Apple Inc.",
+                    "watchlist_count": 528955
+                },
+                {
+                    "aliases": [],
+                    "id": 7271,
+                    "is_following": false,
+                    "symbol": "SPY",
+                    "title": "SPDR S&P 500",
+                    "watchlist_count": 270287
+                },
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/4068309/thumb-1600106560.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/4068309/thumb-1600106560.png",
+                "classification": [],
+                "followers": 1448,
+                "following": 1,
+                "id": 4068309,
+                "ideas": 2835,
+                "identity": "User",
+                "join_date": "2020-09-12",
+                "like_count": 0,
+                "name": "SmartOptions\u00ae",
+                "official": false,
+                "plus_tier": "month",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "SmartOptionsAlgo",
+                "watchlist_stocks_count": 14
+            }
+        },
+        {
+            "body": "$TSLA I\u2019m here now.",
+            "created_at": "2020-11-11T02:45:41Z",
+            "entities": {
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            },
+            "id": 255813492,
+            "likes": {
+                "total": 2,
+                "user_ids": [
+                    3930164,
+                    2187082
+                ]
+            },
+            "mentioned_users": [],
+            "source": {
+                "id": 1149,
+                "title": "StockTwits for iOS",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/3011009/thumb-1589914101.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/3011009/thumb-1589914101.png",
+                "classification": [],
+                "followers": 86,
+                "following": 136,
+                "id": 3011009,
+                "ideas": 2328,
+                "identity": "User",
+                "join_date": "2020-01-07",
+                "like_count": 9109,
+                "name": "Kal",
+                "official": false,
+                "plus_tier": "month",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "Kiqbal",
+                "watchlist_stocks_count": 244
+            }
+        },
+        {
+            "body": "$TSLA I liked this stock better when it was super volatile and sold off a lot",
+            "conversation": {
+                "in_reply_to_message_id": null,
+                "parent": true,
+                "parent_message_id": 255813401,
+                "replies": 1
+            },
+            "created_at": "2020-11-11T02:45:04Z",
+            "entities": {
+                "sentiment": null
+            },
+            "id": 255813401,
+            "mentioned_users": [],
+            "source": {
+                "id": 1149,
+                "title": "StockTwits for iOS",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/4249881/thumb-1604093331.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/4249881/thumb-1604093331.png",
+                "classification": [],
+                "followers": 4,
+                "following": 5,
+                "id": 4249881,
+                "ideas": 460,
+                "identity": "User",
+                "join_date": "2020-10-29",
+                "like_count": 842,
+                "name": "Rigo Alcaraz",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "Gdl9",
+                "watchlist_stocks_count": 24
+            }
+        },
+        {
+            "body": "$TSLA wish me luck",
+            "conversation": {
+                "in_reply_to_message_id": null,
+                "parent": true,
+                "parent_message_id": 255813002,
+                "replies": 2
+            },
+            "created_at": "2020-11-11T02:42:14Z",
+            "entities": {
+                "chart": {
+                    "large": "https://charts.stocktwits.com/production/large_255813002.png",
+                    "original": "https://charts.stocktwits.com/production/original_255813002.png",
+                    "thumb": "https://charts.stocktwits.com/production/small_255813002.png",
+                    "url": "https://charts.stocktwits.com/production/original_255813002.png"
+                },
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            },
+            "id": 255813002,
+            "likes": {
+                "total": 4,
+                "user_ids": [
+                    1254259,
+                    2187082,
+                    985714,
+                    1408894
+                ]
+            },
+            "mentioned_users": [],
+            "source": {
+                "id": 1149,
+                "title": "StockTwits for iOS",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/3843523/thumb-1600840533.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/3843523/thumb-1600840533.png",
+                "classification": [],
+                "followers": 6,
+                "following": 20,
+                "id": 3843523,
+                "ideas": 315,
+                "identity": "User",
+                "join_date": "2020-07-23",
+                "like_count": 197,
+                "name": "Leo Chheng",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "Kc168",
+                "watchlist_stocks_count": 29
+            }
+        },
+        {
+            "body": "$SPY PAMP IT BABY. $AMZN $TSLA $SHOP",
+            "created_at": "2020-11-11T02:42:11Z",
+            "entities": {
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            },
+            "id": 255812993,
+            "likes": {
+                "total": 8,
+                "user_ids": [
+                    1231418,
+                    858471,
+                    3930164,
+                    1570644,
+                    1804971,
+                    2187082,
+                    3759361,
+                    723394
+                ]
+            },
+            "mentioned_users": [],
+            "source": {
+                "id": 1149,
+                "title": "StockTwits for iOS",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 864,
+                    "is_following": false,
+                    "symbol": "AMZN",
+                    "title": "Amazon.com Inc.",
+                    "watchlist_count": 349704
+                },
+                {
+                    "aliases": [],
+                    "id": 7271,
+                    "is_following": false,
+                    "symbol": "SPY",
+                    "title": "SPDR S&P 500",
+                    "watchlist_count": 270305
+                },
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                },
+                {
+                    "aliases": [],
+                    "id": 12560,
+                    "is_following": false,
+                    "symbol": "SHOP",
+                    "title": "Shopify",
+                    "watchlist_count": 73090
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/985714/thumb-1575439253.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/985714/thumb-1575439253.png",
+                "classification": [],
+                "followers": 205,
+                "following": 3,
+                "id": 985714,
+                "ideas": 5539,
+                "identity": "User",
+                "join_date": "2017-03-07",
+                "like_count": 10393,
+                "name": "Joshua Bellor",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "Large_Jungle_Cat",
+                "watchlist_stocks_count": 33
+            }
+        },
+        {
+            "body": "$TSLA I&#39;m still buying here",
+            "created_at": "2020-11-11T02:38:21Z",
+            "entities": {
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            },
+            "id": 255812463,
+            "likes": {
+                "total": 4,
+                "user_ids": [
+                    3930164,
+                    254218,
+                    2187082,
+                    36549
+                ]
+            },
+            "mentioned_users": [],
+            "source": {
+                "id": 1149,
+                "title": "StockTwits for iOS",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/3278456/thumb-1587924724.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/3278456/thumb-1587924724.png",
+                "classification": [],
+                "followers": 54,
+                "following": 44,
+                "id": 3278456,
+                "ideas": 1382,
+                "identity": "User",
+                "join_date": "2020-04-07",
+                "like_count": 2184,
+                "name": "JustinVeee",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "JustinVeee",
+                "watchlist_stocks_count": 29
+            }
+        },
+        {
+            "body": "$TSLA can i get another 405 entry tomorrow for a 420 swing?",
+            "conversation": {
+                "in_reply_to_message_id": null,
+                "parent": true,
+                "parent_message_id": 255812453,
+                "replies": 1
+            },
+            "created_at": "2020-11-11T02:38:18Z",
+            "entities": {
+                "sentiment": null
+            },
+            "id": 255812453,
+            "likes": {
+                "total": 2,
+                "user_ids": [
+                    2187082,
+                    2259925
+                ]
+            },
+            "mentioned_users": [],
+            "source": {
+                "id": 2269,
+                "title": "StockTwits Web",
+                "url": "https://stocktwits.com"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/3066024/thumb-1593143831.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/3066024/thumb-1593143831.png",
+                "classification": [],
+                "followers": 36,
+                "following": 13,
+                "id": 3066024,
+                "ideas": 7276,
+                "identity": "User",
+                "join_date": "2020-01-31",
+                "like_count": 62,
+                "name": "Dat Nguyen",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "DatReturn",
+                "watchlist_stocks_count": 3
+            }
+        },
+        {
+            "body": "$TSLA Can&#39;t wait for the POP....",
+            "created_at": "2020-11-11T02:37:18Z",
+            "entities": {
+                "giphy": {
+                    "id": "4V0mAzoxs73gSl2wxz",
+                    "ratio": 1.7777777777777777
+                },
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            },
+            "id": 255812310,
+            "likes": {
+                "total": 2,
+                "user_ids": [
+                    3930164,
+                    2187082
+                ]
+            },
+            "mentioned_users": [],
+            "source": {
+                "id": 2095,
+                "title": "StockTwits For Android ",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/3276363/thumb-1603841214.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/3276363/thumb-1603841214.png",
+                "classification": [],
+                "followers": 2,
+                "following": 2,
+                "id": 3276363,
+                "ideas": 69,
+                "identity": "User",
+                "join_date": "2020-04-07",
+                "like_count": 221,
+                "name": "Michael G",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "27in9",
+                "watchlist_stocks_count": 27
+            }
+        },
+        {
+            "body": "$TSLA  The Best is when they double respond, natural knee jerk to good reason. It&#39;s why we second guess. Mine&#39;s been right since days prior to ER... Take it easy, why so salty?",
+            "created_at": "2020-11-11T02:37:08Z",
+            "entities": {
+                "sentiment": null
+            },
+            "id": 255812292,
+            "mentioned_users": [],
+            "reshare_message": {
+                "message": {
+                    "body": "$TSLA can\u2019t wait to see how this ages. Don\u2019t listen to the braindead bears like @speculative77",
+                    "created_at": "2020-11-11T02:31:14Z",
+                    "entities": {
+                        "chart": {
+                            "large": "https://charts.stocktwits.com/production/large_255811546.png",
+                            "original": "https://charts.stocktwits.com/production/original_255811546.png",
+                            "thumb": "https://charts.stocktwits.com/production/small_255811546.png",
+                            "url": "https://charts.stocktwits.com/production/original_255811546.png"
+                        },
+                        "sentiment": {
+                            "basic": "Bullish"
+                        }
+                    },
+                    "id": 255811546,
+                    "mentioned_users": [
+                        "@speculative77"
+                    ],
+                    "source": {
+                        "id": 1149,
+                        "title": "StockTwits for iOS",
+                        "url": "http://www.stocktwits.com/mobile"
+                    },
+                    "symbols": [
+                        {
+                            "aliases": [],
+                            "id": 8660,
+                            "is_following": false,
+                            "symbol": "TSLA",
+                            "title": "Tesla, Inc.",
+                            "watchlist_count": 474111
+                        }
+                    ],
+                    "user": {
+                        "avatar_url": "https://avatars.stocktwits.com/production/1366112/thumb-1544454483.png",
+                        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1366112/thumb-1544454483.png",
+                        "classification": [],
+                        "followers": 855,
+                        "following": 9,
+                        "id": 1366112,
+                        "ideas": 3406,
+                        "identity": "User",
+                        "join_date": "2018-01-12",
+                        "like_count": 732,
+                        "name": "TT_1",
+                        "official": false,
+                        "plus_tier": "",
+                        "premium_room": "",
+                        "trade_app": false,
+                        "username": "TT_1",
+                        "watchlist_stocks_count": 7
+                    }
+                },
+                "parent_reshared_deleted": false,
+                "reshared_count": 1,
+                "reshared_deleted": false,
+                "reshared_user_deleted": false
+            },
+            "source": {
+                "id": 2095,
+                "title": "StockTwits For Android ",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474111
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/752059/thumb-1499519942.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/752059/thumb-1499519942.png",
+                "classification": [],
+                "followers": 83,
+                "following": 4,
+                "id": 752059,
+                "ideas": 4428,
+                "identity": "User",
+                "join_date": "2016-05-14",
+                "like_count": 517,
+                "name": "Brian",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "speculative77",
+                "watchlist_stocks_count": 22
+            }
+        },
+        {
+            "body": "$TSLA $AAPL getting into cheap dividends stocks before they blow up next year. $VEON $NRZ",
+            "created_at": "2020-11-11T02:32:33Z",
+            "entities": {
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            },
+            "id": 255811708,
+            "likes": {
+                "total": 3,
+                "user_ids": [
+                    881009,
+                    2187082,
+                    1365681
+                ]
+            },
+            "mentioned_users": [],
+            "source": {
+                "id": 1149,
+                "title": "StockTwits for iOS",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 686,
+                    "is_following": false,
+                    "symbol": "AAPL",
+                    "title": "Apple Inc.",
+                    "watchlist_count": 528955
+                },
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                },
+                {
+                    "aliases": [],
+                    "id": 11462,
+                    "is_following": false,
+                    "symbol": "NRZ",
+                    "title": "New Residential Investment Corp",
+                    "watchlist_count": 10674
+                },
+                {
+                    "aliases": [],
+                    "id": 13530,
+                    "is_following": false,
+                    "symbol": "VEON",
+                    "title": "VEON Ltd",
+                    "watchlist_count": 986
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/3069471/thumb-1602106628.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/3069471/thumb-1602106628.png",
+                "classification": [],
+                "followers": 56,
+                "following": 15,
+                "id": 3069471,
+                "ideas": 6516,
+                "identity": "User",
+                "join_date": "2020-02-03",
+                "like_count": 4060,
+                "name": "Trading Is My Day Job",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "Spydxr",
+                "watchlist_stocks_count": 43
+            }
+        },
+        {
+            "body": "$TSLA can\u2019t wait to see how this ages. Don\u2019t listen to the braindead bears like @speculative77",
+            "created_at": "2020-11-11T02:31:14Z",
+            "entities": {
+                "chart": {
+                    "large": "https://charts.stocktwits.com/production/large_255811546.png",
+                    "original": "https://charts.stocktwits.com/production/original_255811546.png",
+                    "thumb": "https://charts.stocktwits.com/production/small_255811546.png",
+                    "url": "https://charts.stocktwits.com/production/original_255811546.png"
+                },
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            },
+            "id": 255811546,
+            "mentioned_users": [
+                "@speculative77"
+            ],
+            "reshares": {
+                "reshared_count": 1,
+                "user_ids": [
+                    752059
+                ]
+            },
+            "source": {
+                "id": 1149,
+                "title": "StockTwits for iOS",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474111
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/1366112/thumb-1544454483.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/1366112/thumb-1544454483.png",
+                "classification": [],
+                "followers": 855,
+                "following": 9,
+                "id": 1366112,
+                "ideas": 3406,
+                "identity": "User",
+                "join_date": "2018-01-12",
+                "like_count": 732,
+                "name": "TT_1",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "TT_1",
+                "watchlist_stocks_count": 7
+            }
+        },
+        {
+            "body": "$TSLA Futures ripping!",
+            "conversation": {
+                "in_reply_to_message_id": null,
+                "parent": true,
+                "parent_message_id": 255811387,
+                "replies": 10
+            },
+            "created_at": "2020-11-11T02:29:47Z",
+            "entities": {
+                "giphy": {
+                    "id": "sFZ7jXF6KHu8g",
+                    "ratio": 1.3549488054607508
+                },
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            },
+            "id": 255811387,
+            "likes": {
+                "total": 4,
+                "user_ids": [
+                    2983387,
+                    2820444,
+                    237067,
+                    2927648
+                ]
+            },
+            "mentioned_users": [],
+            "source": {
+                "id": 2095,
+                "title": "StockTwits For Android ",
+                "url": "http://www.stocktwits.com/mobile"
+            },
+            "symbols": [
+                {
+                    "aliases": [],
+                    "id": 8660,
+                    "is_following": false,
+                    "symbol": "TSLA",
+                    "title": "Tesla, Inc.",
+                    "watchlist_count": 474135
+                }
+            ],
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/1254259/thumb-1603639414.png",
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/1254259/thumb-1603639414.png",
+                "classification": [],
+                "followers": 145,
+                "following": 147,
+                "id": 1254259,
+                "ideas": 14957,
+                "identity": "User",
+                "join_date": "2017-11-05",
+                "like_count": 8025,
+                "name": "King Potato",
+                "official": false,
+                "plus_tier": "",
+                "premium_room": "",
+                "trade_app": false,
+                "username": "Potato_sb",
+                "watchlist_stocks_count": 94
+            }
+        }
+    ],
+    "response": {
+        "status": 200
+    },
+    "symbol": {
+        "aliases": [],
+        "id": 8660,
+        "is_following": false,
+        "symbol": "TSLA",
+        "title": "Tesla, Inc.",
+        "watchlist_count": 474135
+    }
+}
