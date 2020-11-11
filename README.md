@@ -9,11 +9,7 @@ Uses a Keras (tensorflow) based rnn and stocktwits message data on securites to 
 # Credits
 Uses code from https://github.com/khmurakami/pystocktwits
 
-<<<<<<< HEAD
 # License
-=======
-#License
->>>>>>> master
 MIT License
 
 Copyright (c) 2020 Greg James
