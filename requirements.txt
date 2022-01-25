@@ -4,7 +4,7 @@ cachetools==4.1.1
 certifi==2021.5.30
 chardet==3.0.4
 gast==0.5.2
-google-auth==1.23.0
+google-auth==2.4.1
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 grpcio==1.41.1
