@@ -37,6 +37,6 @@ tensorflow==2.5.1
 tensorflow-estimator==2.6.0
 termcolor==1.1.0
 threadpoolctl==2.1.0
-urllib3==1.26.5
+urllib3==1.26.12
 Werkzeug==1.0.1
 wrapt==1.13.2
