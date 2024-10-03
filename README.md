@@ -1,3 +1,5 @@
+## The newer version of this project can be found [here.](https://github.com/gregyjames/stocksentllm)
+
 # stocktwits-sentiment
 
 Uses a Keras (tensorflow) based rnn and stocktwits message data on securites to predict market sentiment.
